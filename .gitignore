@@ -1,0 +1,4 @@
+junky
+venv
+*.pyc
+*__pycache__
